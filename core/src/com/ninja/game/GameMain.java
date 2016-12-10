@@ -4,10 +4,12 @@ import com.badlogic.gdx.ApplicationAdapter;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.uwsoft.editor.renderer.SceneLoader;
+import com.uwsoft.editor.renderer.utils.ItemWrapper;
 
 public class GameMain extends ApplicationAdapter {
 	private SceneLoader sceneLoader;
@@ -17,6 +19,11 @@ public class GameMain extends ApplicationAdapter {
 		Viewport viewport = new FitViewport(12.8f, 7.5f);
 		sceneLoader = new SceneLoader();
 		sceneLoader.loadScene("Lake", viewport);
+
+		Player player = new Player();
+
+		ItemWrapper root = new ItemWrapper(sceneLoader.getRoot());
+		root.getChild("player").addScript(player);
 	}
 
 	@Override
