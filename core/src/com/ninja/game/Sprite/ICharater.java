@@ -7,4 +7,5 @@ public interface ICharater {
     public int getHealth();
     public int getMana();
     public int getStack();
+    double getDamage();
 }

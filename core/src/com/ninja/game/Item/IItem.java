@@ -1,9 +1,9 @@
-package com.ninja.game;
+package com.ninja.game.Item;
 
 /**
  * Created by Aunpyz on 12/8/2016.
  */
-public interface Item{
+public interface IItem {
     String getName();
     //weapon
     double getAttack();

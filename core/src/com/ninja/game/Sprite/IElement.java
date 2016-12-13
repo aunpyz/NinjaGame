@@ -1,9 +1,9 @@
-package com.ninja.game;
+package com.ninja.game.Sprite;
 
 /**
  * Created by Aunpyz on 11/22/2016.
  */
-public interface Element {
+public interface IElement {
     enum ELEMENT{
         NORMAL,
         WATER,

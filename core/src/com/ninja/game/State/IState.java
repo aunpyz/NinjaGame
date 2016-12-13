@@ -1,9 +1,9 @@
-package com.ninja.game;
+package com.ninja.game.State;
 
 /**
  * Created by Aunpyz on 12/13/2016.
  */
-public interface State {
+public interface IState {
     enum STATE{
         IDLE,
         WALK,
