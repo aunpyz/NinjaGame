@@ -1,0 +1,74 @@
+
+pack.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Fires
+  rotate: false
+  xy: 2, 2
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
+lakes
+  rotate: false
+  xy: 2, 1206
+  size: 1954, 600
+  orig: 1954, 600
+  offset: 0, 0
+  index: -1
+platforms
+  rotate: false
+  xy: 2, 604
+  size: 1954, 600
+  orig: 1954, 600
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Firesfx
+  rotate: false
+  xy: 2, 1206
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
+Firesplatform
+  rotate: false
+  xy: 2, 604
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
+forests
+  rotate: false
+  xy: 2, 2
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+forestsfx
+  rotate: false
+  xy: 2, 604
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
+forestsplatform
+  rotate: false
+  xy: 2, 2
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
