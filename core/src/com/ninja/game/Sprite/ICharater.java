@@ -5,4 +5,6 @@ package com.ninja.game.Sprite;
  */
 public interface ICharater {
     public int getHealth();
+    public int getMana();
+    public int getStack();
 }
