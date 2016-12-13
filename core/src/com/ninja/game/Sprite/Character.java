@@ -121,4 +121,8 @@ public class Character implements ICharater{
         this.state = state;
     }
 
+    @Override
+    public double getDamage() {
+        return 0;
+    }
 }
