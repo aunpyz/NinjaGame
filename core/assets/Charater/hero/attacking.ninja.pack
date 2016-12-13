@@ -1,0 +1,221 @@
+attacking.ninja.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0167
+  rotate: false
+  xy: 380, 440
+  size: 98, 138
+  orig: 200, 200
+  offset: 17, 5
+  index: -1
+0163
+  rotate: false
+  xy: 2, 440
+  size: 94, 138
+  orig: 200, 200
+  offset: 18, 5
+  index: -1
+0180
+  rotate: false
+  xy: 2, 2
+  size: 68, 142
+  orig: 200, 200
+  offset: 41, 5
+  index: -1
+0157
+  rotate: false
+  xy: 94, 146
+  size: 96, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0153
+  rotate: false
+  xy: 222, 2
+  size: 84, 140
+  orig: 200, 200
+  offset: 25, 5
+  index: -1
+0178
+  rotate: false
+  xy: 88, 860
+  size: 76, 140
+  orig: 200, 200
+  offset: 33, 5
+  index: -1
+0174
+  rotate: false
+  xy: 194, 720
+  size: 90, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0170
+  rotate: false
+  xy: 222, 580
+  size: 140, 138
+  orig: 200, 200
+  offset: 18, 5
+  index: -1
+0168
+  rotate: false
+  xy: 2, 580
+  size: 94, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0164
+  rotate: false
+  xy: 98, 440
+  size: 90, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0160
+  rotate: false
+  xy: 2, 300
+  size: 164, 138
+  orig: 200, 200
+  offset: 18, 5
+  index: -1
+0158
+  rotate: false
+  xy: 192, 146
+  size: 102, 152
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0154
+  rotate: false
+  xy: 308, 2
+  size: 90, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0179
+  rotate: false
+  xy: 166, 860
+  size: 70, 142
+  orig: 200, 200
+  offset: 39, 5
+  index: -1
+0150
+  rotate: false
+  xy: 2, 2
+  size: 68, 142
+  orig: 200, 200
+  offset: 41, 5
+  index: -1
+0175
+  rotate: false
+  xy: 286, 720
+  size: 90, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0171
+  rotate: false
+  xy: 364, 580
+  size: 110, 138
+  orig: 200, 200
+  offset: 18, 5
+  index: -1
+0169
+  rotate: false
+  xy: 98, 580
+  size: 122, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0165
+  rotate: false
+  xy: 190, 440
+  size: 92, 138
+  orig: 200, 200
+  offset: 17, 5
+  index: -1
+0161
+  rotate: false
+  xy: 168, 300
+  size: 156, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0159
+  rotate: false
+  xy: 296, 146
+  size: 164, 138
+  orig: 200, 200
+  offset: 18, 5
+  index: -1
+0155
+  rotate: false
+  xy: 400, 2
+  size: 90, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0151
+  rotate: false
+  xy: 72, 2
+  size: 70, 142
+  orig: 200, 200
+  offset: 39, 5
+  index: -1
+0176
+  rotate: false
+  xy: 378, 720
+  size: 90, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0172
+  rotate: false
+  xy: 2, 720
+  size: 94, 138
+  orig: 200, 200
+  offset: 18, 5
+  index: -1
+0166
+  rotate: false
+  xy: 284, 440
+  size: 94, 138
+  orig: 200, 200
+  offset: 15, 5
+  index: -1
+0162
+  rotate: false
+  xy: 326, 300
+  size: 96, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0156
+  rotate: false
+  xy: 2, 146
+  size: 90, 138
+  orig: 200, 200
+  offset: 19, 5
+  index: -1
+0152
+  rotate: false
+  xy: 144, 2
+  size: 76, 140
+  orig: 200, 200
+  offset: 33, 5
+  index: -1
+0177
+  rotate: false
+  xy: 2, 860
+  size: 84, 140
+  orig: 200, 200
+  offset: 25, 5
+  index: -1
+0173
+  rotate: false
+  xy: 98, 720
+  size: 94, 138
+  orig: 200, 200
+  offset: 18, 5
+  index: -1
