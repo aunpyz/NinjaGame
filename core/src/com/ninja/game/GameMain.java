@@ -23,7 +23,7 @@ public class GameMain extends ApplicationAdapter {
 		Player player = new Player();
 
 		ItemWrapper root = new ItemWrapper(sceneLoader.getRoot());
-		root.getChild("player").addScript(player);
+		root.getChild("Water").addScript(player);
 	}
 
 	@Override
