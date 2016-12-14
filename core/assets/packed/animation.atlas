@@ -1,0 +1,8322 @@
+
+animation.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/attack/B/fba01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba31
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/B/fba30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation2.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/attack/F/ffa01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa31
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/attack/F/ffa30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation3.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/die/B/fbd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd31
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd32
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd33
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd34
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd35
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd36
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd37
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd38
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd39
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd40
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/B/fbd41
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation4.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/die/F/ffd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd31
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd32
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd33
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd34
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd35
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd36
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd37
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd38
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd39
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd40
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/die/F/ffd41
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation5.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/idle/B/fbi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi31
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/B/fbi30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation6.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/idle/F/ffi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi31
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/idle/F/ffi30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation7.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/slither/B/fbw01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw31
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/B/fbw30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation8.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire monster sprite/slither/F/ffw01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw31
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+fire monster sprite/slither/F/ffw30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation9.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Attack-hit/B/pbfh01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/B/pbfh11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation10.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Attack-hit/F/pffh01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit/F/pffh11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation11.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Attack-hit-loop/B/pboh01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/B/pboh11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation12.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Attack-hit-loop/F/pfoh01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hit-loop/F/pfoh11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation13.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Attack-hold-back/B/pbhh01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/B/pbhh10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation14.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Attack-hold-back/F/pfhh01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Attack-hold-back/F/pfhh10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation15.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Die/B/pbd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd31
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd32
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd33
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd34
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd35
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd36
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd37
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd38
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd39
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd40
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/B/pbd41
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation16.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Die/F/pfd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd30
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd31
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd32
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd33
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd34
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd35
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd36
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd37
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd38
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd39
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd40
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Die/F/pfd41
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation17.png
+size: 4096,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Fall-in-air/B/pbfa01
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/B/pbfa02
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/B/pbfa03
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/B/pbfa04
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/B/pbfa05
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/B/pbfa06
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation18.png
+size: 4096,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Fall-in-air/F/pffa01
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/F/pffa02
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/F/pffa03
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/F/pffa04
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/F/pffa05
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-in-air/F/pffa06
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation19.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Fall-to-land/B/pbfl01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/B/pbfl14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation20.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Fall-to-land/F/pffl01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Fall-to-land/F/pffl14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation21.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Idle/B/pbi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/B/pbi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation22.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Idle/F/pfi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Idle/F/pfi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation23.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Jump/B/pbj01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/B/pbj11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation24.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Jump/F/pfj01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Jump/F/pfj11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation25.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-cycle-A/B/pbrca01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/B/pbrca16
+  rotate: false
+  xy: 3516, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation26.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-cycle-A/F/pfrca01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-A/F/pfrca16
+  rotate: false
+  xy: 3516, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation27.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-cycle-B/B/pbrcb01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/B/pbrcb15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation28.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-cycle-B/F/pfrcb01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-cycle-B/F/pfrcb15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation29.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-start/B/pbsr01
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-start/B/pbsr02
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-start/B/pbsr03
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation30.png
+size: 2048,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-start/F/pfsr01
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-start/F/pfsr02
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-start/F/pfsr03
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation31.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-stop-A/B/pbsra01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/B/pbsra15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation32.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-stop-A/F/pfsra01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-A/F/pfsra15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation33.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-stop-B/B/pbsrb01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/B/pbsrb16
+  rotate: false
+  xy: 3516, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation34.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+main character sprite/Run-stop-B/F/pfsrb01
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb02
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb03
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb04
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb05
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb06
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb07
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb08
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb09
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb10
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb11
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb12
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb13
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb14
+  rotate: false
+  xy: 3014, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb15
+  rotate: false
+  xy: 3516, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+main character sprite/Run-stop-B/F/pfsrb16
+  rotate: false
+  xy: 3516, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation35.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/attack/B/wba01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/B/wba29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation36.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/attack/F/wfa01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/attack/F/wfa29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation37.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/die/B/wbd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd26
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd27
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd28
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd29
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/B/wbd30
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation38.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/die/F/wfd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd26
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd27
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd28
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd29
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/die/F/wfd30
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation39.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/idle/B/wbi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/B/wbi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation40.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/idle/F/wfi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/idle/F/wfi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation41.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/slide/B/wbw01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw22
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw23
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw24
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw25
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw26
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw27
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw28
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/B/wbw29
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation42.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+water monster sprite/slide/F/wfw01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw22
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw23
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw24
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw25
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw26
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw27
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw28
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+water monster sprite/slide/F/wfw29
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation43.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/attack/B/gba01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/B/gba29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation44.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/attack/F/gfa01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/attack/F/gfa29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation45.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/die/B/gbd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd21
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd22
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd23
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd24
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd25
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd26
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd27
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd28
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd29
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/B/gbd30
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation46.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/die/F/gfd01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd21
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd22
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd23
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd24
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd25
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd26
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd27
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd28
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd29
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/die/F/gfd30
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation47.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/idle/B/gbi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/B/gbi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation48.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/idle/F/gfi01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/idle/F/gfi29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation49.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/walk/B/gbw01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/B/gbw29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+
+animation50.png
+size: 4096,2048
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+wood monster sprite/walk/F/gfw01
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw30
+  rotate: false
+  xy: 2, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw02
+  rotate: false
+  xy: 2, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw03
+  rotate: false
+  xy: 504, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw04
+  rotate: false
+  xy: 2, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw05
+  rotate: false
+  xy: 504, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw06
+  rotate: false
+  xy: 1006, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw07
+  rotate: false
+  xy: 2, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw08
+  rotate: false
+  xy: 504, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw09
+  rotate: false
+  xy: 1006, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw10
+  rotate: false
+  xy: 1508, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw11
+  rotate: false
+  xy: 504, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw12
+  rotate: false
+  xy: 1006, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw13
+  rotate: false
+  xy: 1508, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw14
+  rotate: false
+  xy: 2010, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw15
+  rotate: false
+  xy: 1006, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw16
+  rotate: false
+  xy: 1508, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw17
+  rotate: false
+  xy: 2010, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw18
+  rotate: false
+  xy: 2512, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw19
+  rotate: false
+  xy: 1508, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw20
+  rotate: false
+  xy: 2010, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw21
+  rotate: false
+  xy: 2512, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw22
+  rotate: false
+  xy: 3014, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw23
+  rotate: false
+  xy: 2010, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw24
+  rotate: false
+  xy: 2512, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw25
+  rotate: false
+  xy: 3014, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw26
+  rotate: false
+  xy: 3516, 1508
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw27
+  rotate: false
+  xy: 2512, 2
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw28
+  rotate: false
+  xy: 3014, 504
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+wood monster sprite/walk/F/gfw29
+  rotate: false
+  xy: 3516, 1006
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1

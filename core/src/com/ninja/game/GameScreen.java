@@ -3,10 +3,13 @@ package com.ninja.game;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
 import com.badlogic.gdx.ScreenAdapter;
+import com.badlogic.gdx.assets.AssetManager;
 import com.badlogic.gdx.graphics.Camera;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.Animation;
+import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.uwsoft.editor.renderer.SceneLoader;
@@ -17,31 +20,31 @@ import javafx.stage.Screen;
  * Created by Aunpyz on 12/14/2016.
  */
 public class GameScreen extends ScreenAdapter {
+    //background
     private SceneLoader sceneLoader;
     private Camera camera;
     private Viewport viewport;
-    private Player player;
-
-    private ItemWrapper root;
+    private SpriteBatch batch;
+    private AssetManager assetManager;
+    private StageController stageController;
 
     private final float WORLD_WIDTH = 12.8f;
     private final float WORLD_HEIGHT = 7.5f;
 
     @Override
     public void show () {
-        viewport = new FitViewport(WORLD_WIDTH, WORLD_HEIGHT);
-        sceneLoader = new SceneLoader();
-        sceneLoader.loadScene("Lake", viewport);
-
-//        Player player = new Player();
-        player = new Player();
-        root = new ItemWrapper(sceneLoader.getRoot());
-        root.getChild("Water").addScript(player);
+        stageController = new StageController();
+        assetManager = new AssetManager();
+        assetManager.load("packed/animation.atlas", TextureAtlas.class);
 
         //camera and viewport initialize
         camera = new OrthographicCamera(Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
         camera.position.set(WORLD_WIDTH/2, WORLD_HEIGHT/2, 0);
         camera.update();
+        viewport = new FitViewport(WORLD_WIDTH, WORLD_HEIGHT,camera);
+
+        sceneLoader = new SceneLoader();
+        sceneLoader.loadScene(stageController.getStringElement(), viewport);
     }
 
     @Override
@@ -50,12 +53,14 @@ public class GameScreen extends ScreenAdapter {
         Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
         sceneLoader.getEngine().update(Gdx.graphics.getDeltaTime());
-        camera.position.x += 10;
-        camera.update();
+//        camera.position.x += 10;
+//        camera.update();
 
-        if(Gdx.input.isKeyJustPressed(Input.Keys.ENTER))
+        //change stage test
+        if(Gdx.input.isKeyJustPressed(Input.Keys.SPACE ))
         {
-            root.getChild("mainch").addScript(player);
+            stageController.setElement();
+            sceneLoader.loadScene(stageController.getStringElement(), viewport);
         }
     }
 }

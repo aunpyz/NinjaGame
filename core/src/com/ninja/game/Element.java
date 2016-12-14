@@ -12,5 +12,7 @@ public interface Element {
         FIRE,
         METAL
     }
+    void setElement();
     ELEMENT getElement();
+    String getStringElement();
 }
