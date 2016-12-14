@@ -27,7 +27,7 @@ public class PlayerAnimation extends Sprite implements State{
     private TextureRegion loop[][];
     private TextureRegion stop[][];
 
-    public Animation animation;
+    private Animation animation;
     private STATE previousState;
     private STATE playerState;
     private DIR direction;

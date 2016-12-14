@@ -1,18 +1,15 @@
-package com.ninja.game.Scene;
+package com.ninja.game.Sprite;
 
 import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
-import com.ninja.game.Sprite.Character;
-import com.ninja.game.Sprite.SEnemy;
 
 /**
  * Created by Aunpyz on 12/15/2016.
  */
-public class WaterE extends SEnemy {
-    public WaterE(Skin skin) {
+public class FireE extends SEnemy {
+    public FireE(Skin skin) {
         super(skin);
     }
 
