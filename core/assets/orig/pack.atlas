@@ -1,4 +1,5 @@
-pack3.png
+
+pack.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -25,7 +26,7 @@ platforms
   offset: 0, 0
   index: -1
 
-pack4.png
+pack2.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
@@ -52,7 +53,7 @@ forests
   offset: 0, 0
   index: -1
 
-pack5.png
+pack3.png
 size: 2048,2048
 format: RGBA8888
 filter: Linear,Linear
