@@ -1,0 +1,27 @@
+
+scene.png
+size: 4096,1024
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+fire
+  rotate: false
+  xy: 1958, 2
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
+forest
+  rotate: false
+  xy: 3027, 2
+  size: 1067, 600
+  orig: 1067, 600
+  offset: 0, 0
+  index: -1
+lake
+  rotate: false
+  xy: 2, 2
+  size: 1954, 600
+  orig: 1954, 600
+  offset: 0, 0
+  index: -1
