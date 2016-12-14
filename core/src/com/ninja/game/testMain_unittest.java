@@ -29,10 +29,14 @@ public class testMain_unittest {
 
         System.out.println("bobo.getHealth "+bobo.getHealth());
         jini.addItem(armer);
+
+        System.out.println();
         jini.attack(bobo, 10);
         System.out.println("bobo.getHealth "+bobo.getHealth());
         System.out.println("jini getResultDef "+jini.getResultDef());
-        jini.attack(bobo, 101);
+
+        System.out.println("");
+        jini.attack(bobo, 2);
         System.out.println("bobo.getHealth "+bobo.getHealth());
         System.out.println("jini getResultDef "+jini.getResultDef());
 

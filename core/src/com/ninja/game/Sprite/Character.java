@@ -20,6 +20,8 @@ public class Character implements ICharater {
     protected EType type = EType.HERO;
     protected EElements element = EElements.NORMAL;
     protected boolean enermy = false;
+
+    //Life of charector
     protected double health = 1;
     protected double percenHP = 100;
     protected double maxHealth = 1;
@@ -37,6 +39,10 @@ public class Character implements ICharater {
     protected double atk = 0;
     protected double def = 0;
     protected double intel = 0;
+
+    //Position
+    protected double x;
+    protected double y;
 
 
     /*------------- Coder ----------------*/
@@ -103,7 +109,7 @@ public class Character implements ICharater {
         Health2Percent();
         System.out.println("DMG: "+def2PercentDamage(dmg));
         character.setHealth((character.getPercenHP() - def2PercentDamage(dmg)));
-        percenHP2RawHP();
+        character.percenHP2RawHP();
     }
 
     @Override
@@ -193,5 +199,21 @@ public class Character implements ICharater {
 
     public double getPercenHP() {
         return percenHP;
+    }
+
+    public double getX() {
+        return x;
+    }
+
+    public void setX(double x) {
+        this.x = x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
+    public void setY(double y) {
+        this.y = y;
     }
 }
