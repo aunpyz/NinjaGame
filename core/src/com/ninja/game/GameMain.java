@@ -20,7 +20,6 @@ public class GameMain extends ApplicationAdapter {
 		sceneLoader = new SceneLoader();
 		sceneLoader.loadScene("Lake", viewport);
 
-//		").addScript(player);
 	}
 
 	@Override
