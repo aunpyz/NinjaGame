@@ -38,7 +38,7 @@ public class PlayerAnimation extends Sprite implements State{
     private final float distance = 3f;
     private final float gravity = -0.5f;
     private final float scale = 0.5f;
-    private final float groundLV = 40;
+    public static final float groundLV = 40;
 
     private double hp;
     private String name;
@@ -239,7 +239,7 @@ public class PlayerAnimation extends Sprite implements State{
             {
                 isATK = true;
             }
-            if(Gdx.input.isKeyPressed(Input.Keys.ENTER))
+            if(Gdx.input.isKeyPressed(Input.Keys.ENTER) && position.y <= groundLV)
             {
                 hp =0;
             }
@@ -323,6 +323,8 @@ public class PlayerAnimation extends Sprite implements State{
 
     @Override
     public STATE getState() {
+        if(hp <= 0)
+            return STATE.DIE;
         if(isATK)
             return STATE.ATTACK;
         if(velocity.x != 0 && position.y <= groundLV)
@@ -337,8 +339,6 @@ public class PlayerAnimation extends Sprite implements State{
             return STATE.FALLAIR;
         else if(position.y <= groundLV+10 && previousState == STATE.FALLAIR)
             return STATE.FALLGROUND;
-        else if(hp <= 0)
-            return STATE.DIE;
         else return STATE.IDLE;
     }
 

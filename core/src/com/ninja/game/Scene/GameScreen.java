@@ -22,7 +22,6 @@ import com.uwsoft.editor.renderer.SceneLoader;
  */
 public class GameScreen extends ScreenAdapter {
     //background
-    private SceneLoader sceneLoader;
     private Camera camera;
     private Viewport viewport;
     private SpriteBatch batch;
@@ -69,12 +68,6 @@ public class GameScreen extends ScreenAdapter {
 //        camera.position.set(player.getPosition().x, player.getPosition().y, 0);
 //        camera.update();
 
-        //change stage test
-        if(Gdx.input.isKeyJustPressed(Input.Keys.ENTER ))
-        {
-            stageController.setElement();
-            sceneLoader.loadScene(stageController.getStringElement(), viewport);
-        }
         scene.update(delta);
         scene.setPosition(player.getPosition());
         scene.render(batch);
