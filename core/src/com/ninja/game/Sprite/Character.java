@@ -103,33 +103,32 @@ public class Character implements ICharater {
         }
     }
 
-    public double def2PercentDamage(double dmg){
+    public double def2PercentDamage(double dmg, double multi){
         double defChk = this.getResultDef();
         if(defChk <= 0 )defChk = 1;
-        return ((this.atk+dmg)/defChk)*Math.abs(Math.random())*10;
+        return (((this.atk+dmg)*multi)/defChk)*Math.abs(Math.random())*10;
     }
 
     private void healthUpdate(){
         this.percenHP2RawHP();
         this.Health2Percent();
-
     }
 
 
     @Override
     public void attack(Character character, double dmg) {
         healthUpdate();
-        System.out.println(character.getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg));
-        character.attacked(dmg);
-//        character.setPercenHP((character.getPercenHP() - def2PercentDamage(dmg)));
-//        character.healthUpdate();
+
+        ElementSystem dmgMultiply = new ElementSystem(this.getElement(), character.getElement());
+        double multi = dmgMultiply.getDamge();
+        System.out.println(character.getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg,multi ));
+        character.attacked(dmg, multi);
     }
 
-    @Override
-    public void attacked(double dmg) {
+    public void attacked(double dmg, double multi) {
         healthUpdate();
-        System.out.println(getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg));
-        setPercenHP((getPercenHP() - def2PercentDamage(dmg)));
+        System.out.println(getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg, multi));
+        setPercenHP((getPercenHP() - def2PercentDamage(dmg, multi)));
         healthUpdate();
     }
 
@@ -231,6 +230,14 @@ public class Character implements ICharater {
 
     public void setY(double y) {
         this.y = y;
+    }
+
+    public EElements getElement() {
+        return element;
+    }
+
+    public void setElement(EElements element) {
+        this.element = element;
     }
 
     public void setPercenHP(double percenHP) {

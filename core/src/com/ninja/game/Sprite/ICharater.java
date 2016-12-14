@@ -11,6 +11,6 @@ public interface ICharater {
 
     //Action
     void attack(Character character, double dmg);
-    void attacked(double dmg);
+    //void attacked(double dmg);
     void heal(double hpStack);
 }
