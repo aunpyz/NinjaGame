@@ -1,5 +1,7 @@
 package com.ninja.game.Scene;
 
+import com.ninja.game.Interfaces.Element;
+
 /**
  * Created by Aunpyz on 12/14/2016.
  */
