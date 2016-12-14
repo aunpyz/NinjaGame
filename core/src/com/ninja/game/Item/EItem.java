@@ -5,5 +5,6 @@ package com.ninja.game.Item;
  */
 public enum EItem {
     HEAL,
-    DAMAGE
+    DAMAGE,
+    DEF
 }

@@ -8,4 +8,9 @@ public interface ICharater {
     public int getMana();
     public int getStack();
     public double getDamage();
+
+    //Action
+    void attack(Character character, int dmg);
+    void attacked(int dmg);
+    void heal(int hpStack);
 }

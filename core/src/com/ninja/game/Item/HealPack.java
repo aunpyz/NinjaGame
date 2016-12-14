@@ -13,11 +13,11 @@ public class HealPack extends Item {
     private int healStack = 30;
 
     public HealPack(){
-        item = new Item("HealPack", EItem.HEAL);
+        super("HealPack", EItem.HEAL);
     }
 
     public HealPack(Character player){
-        item = new Item("HealPack", EItem.HEAL);
+        super("HealPack", EItem.HEAL);
         this.player = player;
     }
 
