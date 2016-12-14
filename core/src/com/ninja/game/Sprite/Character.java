@@ -1,7 +1,5 @@
 package com.ninja.game.Sprite;
 
-import com.ninja.game.Interfaces.ICharater;
-
 /**
  * Created by ather on 19/11/2559.
  */

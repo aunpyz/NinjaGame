@@ -1,15 +1,10 @@
 package com.ninja.game.Sprite;
 
-import com.badlogic.gdx.Gdx;
-import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.Animation;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.ninja.game.Interfaces.*;
-import com.ninja.game.Interfaces.Character;
-import com.sun.deploy.uitoolkit.impl.text.TextUIToolkit;
 
 import java.lang.*;
 
