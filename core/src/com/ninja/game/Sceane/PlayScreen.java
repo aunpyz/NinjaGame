@@ -12,6 +12,10 @@ import javafx.stage.Stage;
 public class PlayScreen implements Screen{
     private GameMain game;
 
+    //Basic PLayscreen
+    private OrthographicCamera gameCam;
+    private ViewPort gamePort;
+
     //Screen variable
     private OrthographicCamera gamecam;
     private ViewPort gameViewPort;
