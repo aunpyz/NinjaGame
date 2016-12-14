@@ -30,8 +30,13 @@ public class PlayerAnimation extends Sprite implements State{
     private STATE playerState;
     private DIR direction;
 
+    private double hp;
+    private String name;
+
     public PlayerAnimation(Skin skin) {
         super(skin);
+        hp = 100;
+        name = "Ninja";
     }
 
     @Override
@@ -168,6 +173,7 @@ public class PlayerAnimation extends Sprite implements State{
 
     @Override
     public void update(float delta) {
+
     }
 
     @Override
