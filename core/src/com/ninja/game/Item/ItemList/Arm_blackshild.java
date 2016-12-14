@@ -10,6 +10,6 @@ public class Arm_blackshild extends Armer{
     Armer armer;
 
     public Arm_blackshild() {
-        armer = new Armer("Black Shilde", EItem.DEF, 0, 50, 1);
+        super("Black Shilde", EItem.DEF, 0, 50, 1);
     }
 }

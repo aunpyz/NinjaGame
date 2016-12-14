@@ -1,6 +1,6 @@
 package com.ninja.game.Sprite;
 
-import com.ninja.game.Item.Item;
+import com.ninja.game.Item.Wearable;
 import com.ninja.game.State.EElements;
 import com.ninja.game.State.EState;
 import com.ninja.game.State.EType;
@@ -27,9 +27,9 @@ public class Character implements ICharater {
     protected EState state = EState.IDLE;
 
     //Item Status
-    List<Item> itemList = new ArrayList<Item>();
-    protected int sumItemAtk;
-    protected int sumItemDef;
+    List<Wearable> wearableList = new ArrayList<Wearable>();
+    protected double sumItemAtk;
+    protected double sumItemDef=0;
 
     //Status
     protected int atk = 0;
@@ -58,6 +58,60 @@ public class Character implements ICharater {
         setAtk(atk);
         setIntel(intel);
         setDef(def);
+    }
+
+    public void addItem(Wearable item){
+        wearableList.add(item);
+    }
+
+    public void itemCalculateDef(){
+        for (Wearable itemDef : wearableList){
+            sumItemDef += itemDef.getDefCal();
+        }
+    }
+
+
+
+    @Override
+    public void attack(Character character, int dmg) {
+        character.setHealth((character.getHealth()+def));
+    }
+
+    @Override
+    public void attacked(int dmg) {
+
+    }
+
+    @Override
+    public void heal(int hpStack) {
+
+    }
+
+    @Override
+    public int getHealth() {
+        return health;
+    }
+
+
+    @Override
+    public int getMana() {
+        return mana;
+    }
+
+    @Override
+    public int getStack() {
+        return currentStack;
+    }
+
+    @Override
+    public double getDamage() {
+        return 0;
+    }
+
+    // Geter Setter
+
+    public boolean isDead() {
+        return this.health <= 0;
     }
 
     public int getAtk() {
@@ -102,45 +156,5 @@ public class Character implements ICharater {
 
     public int getDefValue(){
         return this.getDef();
-    }
-
-    @Override
-    public void attack(Character character, int dmg) {
-        character.setHealth((character.getHealth()+def));
-    }
-
-    @Override
-    public void attacked(int dmg) {
-
-    }
-
-    @Override
-    public void heal(int hpStack) {
-
-    }
-
-    @Override
-    public int getHealth() {
-        return health;
-    }
-
-
-    @Override
-    public int getMana() {
-        return mana;
-    }
-
-    @Override
-    public int getStack() {
-        return currentStack;
-    }
-
-    @Override
-    public double getDamage() {
-        return 0;
-    }
-
-    public boolean isDead() {
-        return this.health <= 0;
     }
 }

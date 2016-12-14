@@ -14,8 +14,4 @@ public class Armer extends Wearable {
     public Armer(String name, EItem prop, int atk, int def, int intel) {
         super(name, prop, atk, def, intel);
     }
-
-    public double getDefCal(){
-        return getDef()*0.3*1;
-    }
 }

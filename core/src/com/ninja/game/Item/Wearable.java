@@ -3,7 +3,7 @@ package com.ninja.game.Item;
 /**
  * Created by ather on 14/12/2559.
  */
-public class Wearable extends Item {
+public class Wearable extends Item implements IWearable{
     protected int atk;
     protected int def;
     protected int intel;
@@ -26,16 +26,23 @@ public class Wearable extends Item {
         this.def = def;
         this.intel = intel;
     }
-
-    public int getAtk() {
+    @Override
+    public double getAtk() {
         return atk;
     }
 
-    public int getDef() {
+    @Override
+    public double getDef() {
         return def;
     }
 
-    public int getIntel() {
+    @Override
+    public double getIntel() {
         return intel;
+    }
+
+    @Override
+    public double getDefCal() {
+        return 0.3*def+1;
     }
 }
