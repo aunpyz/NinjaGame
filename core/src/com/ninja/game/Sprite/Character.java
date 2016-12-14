@@ -20,10 +20,12 @@ public class Character implements ICharater {
     protected EType type = EType.HERO;
     protected EElements element = EElements.NORMAL;
     protected boolean enermy = false;
-    protected int health = 1;
-    protected int mana = 1;
-    protected int maxStack = 4;
-    protected int currentStack = 0;
+    protected double health = 1;
+    protected double percenHP = 100;
+    protected double maxHealth = 1;
+    protected double mana = 1;
+    protected double maxStack = 4;
+    protected double currentStack = 0;
     protected EState state = EState.IDLE;
 
     //Item Status
@@ -32,29 +34,31 @@ public class Character implements ICharater {
     protected double sumItemDef=0;
 
     //Status
-    protected int atk = 0;
-    protected int def = 0;
-    protected int intel = 0;
+    protected double atk = 0;
+    protected double def = 0;
+    protected double intel = 0;
 
 
     /*------------- Coder ----------------*/
 
     public Character() {
-        create_character(10, 10, 1);
+        create_character(10, 10, 10, 1);
         create_status(1, 0, 0);
     }
 
-    public void create_character(int hp, int mp, int maxStack) {
+    public void create_character(double hp, double maxHp,  double mp, double maxStack) {
         setHealth(hp);
+        setMaxHealth(maxHp);
         setMana(mp);
+        Health2Percent();
 
     }
-    public void create_character(int hp, int mp, int maxStack, EType type) {
-        create_character(hp, mp, maxStack);
+    public void create_character(double hp, double maxHp, double mp, double maxStack, EType type) {
+        create_character(hp, maxHp, mp, maxStack);
         setType(type);
     }
 
-    public void create_status(int atk, int def, int intel){
+    public void create_status(double atk, double def, double intel){
         setAtk(atk);
         setIntel(intel);
         setDef(def);
@@ -64,42 +68,67 @@ public class Character implements ICharater {
         wearableList.add(item);
     }
 
-    public void itemCalculateDef(){
+    private void itemCalculateDef(){
+        sumItemDef = 0;
         for (Wearable itemDef : wearableList){
             sumItemDef += itemDef.getDefCal();
         }
     }
 
+    public double getResultDef(){
+        // Calculate Every Called
+        this.itemCalculateDef();
+        System.out.println("Item.Def: "+this.sumItemDef+ " +Char.Def "+this.def+ " = "+(double)(this.sumItemDef+this.def));
+        return this.sumItemDef+this.def;
+    }
+
+    private void Health2Percent(){
+        this.maxHealth = (this.maxHealth > 0) ? this.maxHealth:1;
+        this.percenHP = (this.health / this.maxHealth) *100;
+    }
+
+    public void percenHP2RawHP(){
+        this.health = (percenHP/100)*maxHealth;
+    }
+
+    public double def2PercentDamage(double dmg){
+        double defChk = this.getResultDef();
+        if(defChk <= 0 )defChk = 1;
+        return ((this.atk+dmg)/defChk)*Math.random()*10;
+    }
 
 
     @Override
-    public void attack(Character character, int dmg) {
-        character.setHealth((character.getHealth()+def));
+    public void attack(Character character, double dmg) {
+        Health2Percent();
+        System.out.println("DMG: "+def2PercentDamage(dmg));
+        character.setHealth((character.getPercenHP() - def2PercentDamage(dmg)));
+        percenHP2RawHP();
     }
 
     @Override
-    public void attacked(int dmg) {
+    public void attacked(double dmg) {
 
     }
 
     @Override
-    public void heal(int hpStack) {
+    public void heal(double hpStack) {
 
     }
 
     @Override
-    public int getHealth() {
+    public double getHealth() {
         return health;
     }
 
 
     @Override
-    public int getMana() {
+    public double getMana() {
         return mana;
     }
 
     @Override
-    public int getStack() {
+    public double getStack() {
         return currentStack;
     }
 
@@ -114,31 +143,31 @@ public class Character implements ICharater {
         return this.health <= 0;
     }
 
-    public int getAtk() {
+    public double getAtk() {
         return atk;
     }
 
-    public void setAtk(int atk) {
+    public void setAtk(double atk) {
         this.atk = atk;
     }
 
-    public int getDef() {
+    private double getDef() {
         return def;
     }
 
-    public void setDef(int def) {
+    private void setDef(double def) {
         this.def = def;
     }
 
-    public int getIntel() {
+    public double getIntel() {
         return intel;
     }
 
-    public void setIntel(int intel) {
+    public void setIntel(double intel) {
         this.intel = intel;
     }
 
-    public void setHealth(int hp) {
+    public void setHealth(double hp) {
         this.health = (hp > 0) ? hp : 0;
     }
 
@@ -146,7 +175,7 @@ public class Character implements ICharater {
         this.type = type;
     }
 
-    public void setMana(int mana) {
+    public void setMana(double mana) {
         this.mana = mana;
     }
 
@@ -154,7 +183,15 @@ public class Character implements ICharater {
         this.maxStack = maxStack;
     }
 
-    public int getDefValue(){
+    public double getDefValue(){
         return this.getDef();
+    }
+
+    public void setMaxHealth(double maxHp){
+        this.maxHealth = maxHp;
+    }
+
+    public double getPercenHP() {
+        return percenHP;
     }
 }

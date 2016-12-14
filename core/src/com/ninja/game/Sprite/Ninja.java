@@ -8,4 +8,5 @@ import com.ninja.game.Stage.Stage;
  */
 public class Ninja  extends Character{
     private Stage state;
+
 }
