@@ -21,6 +21,8 @@ public class testmain_testDistanct extends ApplicationAdapter {
         Distance distance = new Distance(v1, v2);
         System.out.println(distance.distanct());
 
+        // Test find Enemy
+
         Character enemy1 = new Enemy();
         enemy1.setPos(3, 4);
         Character enemy2 = new Enemy();
