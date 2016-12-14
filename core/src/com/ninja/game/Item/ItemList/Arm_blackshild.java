@@ -7,9 +7,7 @@ import com.ninja.game.Item.EItem;
  * Created by ather on 14/12/2559.
  */
 public class Arm_blackshild extends Armer{
-    Armer armer;
-
     public Arm_blackshild() {
-        super("Black Shilde", EItem.DEF, 0, 50, 1);
+        super("Black Shilde", EItem.DEF, "sss", 0, 50, 1);
     }
 }

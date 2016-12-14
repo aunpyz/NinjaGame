@@ -8,16 +8,12 @@ public interface State {
         IDLE,
         DIE,
         ATTACK,
-        ATTACKLOOP,
-        ATTACKHOLDBACK,
         JUMP,
         FALLAIR,
         FALLGROUND,
         WALK,
-        WALKCYA,
-        WALKCYB,
-        WALKSTA,
-        WALKSTB
+        CYCLE,
+        STOP
     }
     enum DIR{
         L,
@@ -25,7 +21,7 @@ public interface State {
     }
 
     STATE getState();
-    void setState(STATE state);
+    void setState();
     void setDir(DIR dir);
     DIR getDir();
 }

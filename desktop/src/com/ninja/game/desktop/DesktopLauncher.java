@@ -2,6 +2,8 @@ package com.ninja.game.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
+import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.tools.texturepacker.TexturePacker;
 import com.ninja.game.GameMain;
 
 public class DesktopLauncher {
@@ -14,6 +16,7 @@ public class DesktopLauncher {
 //		settings.filterMag = Texture.TextureFilter.MipMapLinearLinear;
 //		settings.filterMin = Texture.TextureFilter.MipMapLinearLinear;
 //		TexturePacker.process(settings, "used sprite animation", "packed", "animation");
+//        TexturePacker.process(settings, "scene", "packed", "scene");
 
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		config.width = 1024;

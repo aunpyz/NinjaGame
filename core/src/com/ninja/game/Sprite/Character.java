@@ -20,6 +20,8 @@ public class Character implements ICharater {
     protected EType type = EType.HERO;
     protected EElements element = EElements.NORMAL;
     protected boolean enermy = false;
+
+    //Life of charector
     protected double health = 1;
     protected double percenHP = 100;
     protected double maxHealth = 1;
@@ -37,6 +39,10 @@ public class Character implements ICharater {
     protected double atk = 0;
     protected double def = 0;
     protected double intel = 0;
+
+    //Position
+    protected double x = 0;
+    protected double y = 0;
 
 
     /*------------- Coder ----------------*/
@@ -74,9 +80,16 @@ public class Character implements ICharater {
             sumItemDef += itemDef.getDefCal();
         }
     }
+    private void itemCalculateAtk(){
+        sumItemDef = 0;
+        for (Wearable itemAtk : wearableList){
+            sumItemDef += itemAtk.getDefCal();
+        }
+    }
 
     public double getResultDef(){
         // Calculate Every Called
+        this.itemCalculateAtk();
         this.itemCalculateDef();
         System.out.println("Item.Def: "+this.sumItemDef+ " +Char.Def "+this.def+ " = "+(double)(this.sumItemDef+this.def));
         return this.sumItemDef+this.def;
@@ -85,30 +98,45 @@ public class Character implements ICharater {
     private void Health2Percent(){
         this.maxHealth = (this.maxHealth > 0) ? this.maxHealth:1;
         this.percenHP = (this.health / this.maxHealth) *100;
+        if(this.percenHP < 0){
+            this.percenHP = 0;
+        }
     }
 
     public void percenHP2RawHP(){
         this.health = (percenHP/100)*maxHealth;
+        if(this.health < 0){
+            this.health = 0;
+        }
     }
 
-    public double def2PercentDamage(double dmg){
+    public double def2PercentDamage(double dmg, double multi){
         double defChk = this.getResultDef();
         if(defChk <= 0 )defChk = 1;
-        return ((this.atk+dmg)/defChk)*Math.random()*10;
+        return (((this.atk+dmg)*multi)/defChk)*Math.abs(Math.random())*10;
+    }
+
+
+    private void healthUpdate(){
+        this.percenHP2RawHP();
+        this.Health2Percent();
     }
 
 
     @Override
     public void attack(Character character, double dmg) {
-        Health2Percent();
-        System.out.println("DMG: "+def2PercentDamage(dmg));
-        character.setHealth((character.getPercenHP() - def2PercentDamage(dmg)));
-        percenHP2RawHP();
+        healthUpdate();
+        ElementSystem dmgMultiply = new ElementSystem(this.getElement(), character.getElement());
+        double multi = dmgMultiply.getDamge();
+        System.out.println(character.getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg,multi ));
+        character.attacked(dmg, multi);
     }
 
-    @Override
-    public void attacked(double dmg) {
-
+    public void attacked(double dmg, double multi) {
+        healthUpdate();
+        System.out.println(getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg, multi));
+        setPercenHP((getPercenHP() - def2PercentDamage(dmg, multi)));
+        healthUpdate();
     }
 
     @Override
@@ -193,5 +221,54 @@ public class Character implements ICharater {
 
     public double getPercenHP() {
         return percenHP;
+    }
+
+    public double getX() {
+        return x;
+    }
+
+    public void setX(double x) {
+        this.x = x;
+    }
+
+    public double getY() {
+        return y;
+    }
+
+    public void setPos(double x, double y){
+        this.setX(x);
+        this.setY(y);
+    }
+
+    public void setY(double y) {
+        this.y = y;
+    }
+
+    public EElements getElement() {
+        return element;
+    }
+
+    public void setElement(EElements element) {
+        this.element = element;
+    }
+
+    public void setPercenHP(double percenHP) {
+        this.percenHP = percenHP;
+    }
+
+    public boolean isEnermy() {
+        return enermy;
+    }
+
+    public void setEnermy(boolean enermy) {
+        this.enermy = enermy;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
