@@ -24,7 +24,7 @@ public class testMain_unittest {
         System.out.println("jini "+jini.getResultDef());
 
         Character bobo = new Character();
-        bobo.create_status(10,0,10);
+        bobo.create_status(10,10,10);
         bobo.create_character(100,100, 5 ,4);
 
         System.out.println("bobo.getHealth "+bobo.getHealth());
@@ -39,6 +39,12 @@ public class testMain_unittest {
         jini.attack(bobo, 2);
         System.out.println("bobo.getHealth "+bobo.getHealth());
         System.out.println("jini getResultDef "+jini.getResultDef());
+
+        System.out.println("");
+        jini.attack(bobo, 10);
+        System.out.println("bobo.getHealth "+bobo.getHealth());
+        System.out.println("jini getResultDef "+jini.getResultDef());
+
 
 
 

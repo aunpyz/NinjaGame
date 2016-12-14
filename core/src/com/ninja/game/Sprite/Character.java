@@ -91,30 +91,46 @@ public class Character implements ICharater {
     private void Health2Percent(){
         this.maxHealth = (this.maxHealth > 0) ? this.maxHealth:1;
         this.percenHP = (this.health / this.maxHealth) *100;
+        if(this.percenHP < 0){
+            this.percenHP = 0;
+        }
     }
 
     public void percenHP2RawHP(){
         this.health = (percenHP/100)*maxHealth;
+        if(this.health < 0){
+            this.health = 0;
+        }
     }
 
     public double def2PercentDamage(double dmg){
         double defChk = this.getResultDef();
         if(defChk <= 0 )defChk = 1;
-        return ((this.atk+dmg)/defChk)*Math.random()*10;
+        return ((this.atk+dmg)/defChk)*Math.abs(Math.random())*10;
+    }
+
+    private void healthUpdate(){
+        this.percenHP2RawHP();
+        this.Health2Percent();
+
     }
 
 
     @Override
     public void attack(Character character, double dmg) {
-        Health2Percent();
-        System.out.println("DMG: "+def2PercentDamage(dmg));
-        character.setHealth((character.getPercenHP() - def2PercentDamage(dmg)));
-        character.percenHP2RawHP();
+        healthUpdate();
+        System.out.println(character.getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg));
+        character.attacked(dmg);
+//        character.setPercenHP((character.getPercenHP() - def2PercentDamage(dmg)));
+//        character.healthUpdate();
     }
 
     @Override
     public void attacked(double dmg) {
-
+        healthUpdate();
+        System.out.println(getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg));
+        setPercenHP((getPercenHP() - def2PercentDamage(dmg)));
+        healthUpdate();
     }
 
     @Override
@@ -215,5 +231,9 @@ public class Character implements ICharater {
 
     public void setY(double y) {
         this.y = y;
+    }
+
+    public void setPercenHP(double percenHP) {
+        this.percenHP = percenHP;
     }
 }
