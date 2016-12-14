@@ -5,6 +5,5 @@ package com.ninja.game;
  */
 public class InputKey {
     InputKey(GameMain game){
-
     }
 }

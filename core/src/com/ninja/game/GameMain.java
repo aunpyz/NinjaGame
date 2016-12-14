@@ -6,10 +6,13 @@ import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.uwsoft.editor.renderer.SceneLoader;
-import com.uwsoft.editor.renderer.utils.ItemWrapper;
 
 public class GameMain extends ApplicationAdapter {
-	private SceneLoader sceneLoader;
+	private SceneLoader sceneLoader;Player player = new Player();
+//
+//		ItemWrapper root = new ItemWrapper(sceneLoader.getRoot());
+//		root.getChild("Lake
+
 	
 	@Override
 	public void create () {
@@ -17,10 +20,6 @@ public class GameMain extends ApplicationAdapter {
 		sceneLoader = new SceneLoader();
 		sceneLoader.loadScene("Lake", viewport);
 
-		Player player = new Player();
-
-		ItemWrapper root = new ItemWrapper(sceneLoader.getRoot());
-		root.getChild("player").addScript(player);
 	}
 
 	@Override
@@ -29,5 +28,8 @@ public class GameMain extends ApplicationAdapter {
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
 		sceneLoader.getEngine().update(Gdx.graphics.getDeltaTime());
+		System.out.println();
+
+
 	}
 }

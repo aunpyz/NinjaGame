@@ -5,9 +5,5 @@ package com.ninja.game.Item;
  */
 public interface IItem {
     String getName();
-    //weapon
-    double getAttack();
-    //for potion
-    double getHP();
-    boolean isHealable();
+    EItem getProp();
 }
