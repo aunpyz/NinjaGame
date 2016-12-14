@@ -37,6 +37,7 @@ public class PlayerAnimation extends Sprite implements State{
     private final float fps = 1f/30f;
     private final float distance = 3f;
     private final float gravity = -0.5f;
+    private final float scale = 0.5f;
 
     private double hp;
     private String name;
@@ -69,7 +70,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<30; j++)
             {
-                idle[i][j] = resource.getRegion("main character sprite/Idle/"+(i==0?"F/pfi":"B/pbi")+String.format("%02d", j+1));
+                idle[i][j] = resource.getRegion((i==0?"pfi":"pbi")+String.format("%02d", j+1));
             }
         }
 
@@ -77,7 +78,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<41; j++)
             {
-                die[i][j] = resource.getRegion("main character sprite/Die/"+(i==0?"F/pfd":"B/pbd")+String.format("%02d", j+1));
+                die[i][j] = resource.getRegion((i==0?"pfd":"pbd")+String.format("%02d", j+1));
             }
         }
 
@@ -85,7 +86,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<11; j++)
             {
-                attack[i][j] = resource.getRegion("main character sprite/Attack-hit/"+(i==0?"F/pffh":"B/pbfh")+String.format("%02d", j+1));
+                attack[i][j] = resource.getRegion((i==0?"pffh":"pbfh")+String.format("%02d", j+1));
             }
         }
 
@@ -93,7 +94,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<11; j++)
             {
-                attack[i][j+11] = resource.getRegion("main character sprite/Attack-hit-loop/"+(i==0?"F/pfoh":"B/pboh")+String.format("%02d", j+1));
+                attack[i][j+11] = resource.getRegion((i==0?"pfoh":"pboh")+String.format("%02d", j+1));
             }
         }
 
@@ -101,7 +102,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<10; j++)
             {
-                attack[i][j+22] = resource.getRegion("main character sprite/Attack-hold-back/"+(i==0?"F/pfhh":"B/pbhh")+String.format("%02d", j+1));
+                attack[i][j+22] = resource.getRegion((i==0?"pfhh":"pbhh")+String.format("%02d", j+1));
             }
         }
 
@@ -109,7 +110,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<11; j++)
             {
-                jump[i][j] = resource.getRegion("main character sprite/Jump/"+(i==0?"F/pfj":"B/pbj")+String.format("%02d", j+1));
+                jump[i][j] = resource.getRegion((i==0?"pfj":"pbj")+String.format("%02d", j+1));
             }
         }
 
@@ -117,7 +118,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<6; j++)
             {
-                fallAir[i][j] = resource.getRegion("main character sprite/Fall-in-air/"+(i==0?"F/pffa":"B/pbfa")+String.format("%02d", j+1));
+                fallAir[i][j] = resource.getRegion((i==0?"pffa":"pbfa")+String.format("%02d", j+1));
             }
         }
 
@@ -125,7 +126,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<14; j++)
             {
-                fallGround[i][j] = resource.getRegion("main character sprite/Fall-to-land/"+(i==0?"F/pffl":"B/pbfl")+String.format("%02d", j+1));
+                fallGround[i][j] = resource.getRegion((i==0?"pffl":"pbfl")+String.format("%02d", j+1));
             }
         }
 
@@ -133,7 +134,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<3; j++)
             {
-                walk[i][j] = resource.getRegion("main character sprite/Run-start/"+(i==0?"F/pfsr":"B/pbsr")+String.format("%02d", j+1));
+                walk[i][j] = resource.getRegion((i==0?"pfsr":"pbsr")+String.format("%02d", j+1));
             }
         }
 
@@ -141,7 +142,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<16; j++)
             {
-                walk[i][j+3] = resource.getRegion("main character sprite/Run-cycle-A/"+(i==0?"F/pfrca":"B/pbrca")+String.format("%02d", j+1));
+                walk[i][j+3] = resource.getRegion((i==0?"pfrca":"pbrca")+String.format("%02d", j+1));
             }
         }
 
@@ -149,7 +150,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<15; j++)
             {
-                loop[i][j] = resource.getRegion("main character sprite/Run-cycle-B/"+(i==0?"F/pfrcb":"B/pbrcb")+String.format("%02d", j+1));
+                loop[i][j] = resource.getRegion((i==0?"pfrcb":"pbrcb")+String.format("%02d", j+1));
             }
         }
 
@@ -157,7 +158,7 @@ public class PlayerAnimation extends Sprite implements State{
         {
             for(int j=0; j<15; j++)
             {
-                stop[i][j] = resource.getRegion("main character sprite/Run-stop-A/"+(i==0?"F/pfsra":"B/pbsra")+String.format("%02d", j+1));
+                stop[i][j] = resource.getRegion((i==0?"pfsra":"pbsra")+String.format("%02d", j+1));
             }
         }
 
@@ -244,7 +245,7 @@ public class PlayerAnimation extends Sprite implements State{
 
     @Override
     public void render(SpriteBatch batch) {
-        System.out.println(this.delta);
+//        System.out.println(this.delta);
         batch.draw(animation.getKeyFrame(delta),position.x,position.y);
     }
 
