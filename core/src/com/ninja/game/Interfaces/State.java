@@ -6,11 +6,26 @@ package com.ninja.game.Interfaces;
 public interface State {
     enum STATE{
         IDLE,
+        DIE,
+        ATTACK,
+        ATTACKLOOP,
+        ATTACKHOLDBACK,
+        JUMP,
+        FALLAIR,
+        FALLGROUND,
         WALK,
-        ATTCK,
-        JUNP,
-        DIE
+        WALKCYA,
+        WALKCYB,
+        WALKSTA,
+        WALKSTB
+    }
+    enum DIR{
+        L,
+        R
     }
 
     STATE getState();
+    void setState(STATE state);
+    void setDir(DIR dir);
+    DIR getDir();
 }

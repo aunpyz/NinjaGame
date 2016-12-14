@@ -1,4 +1,4 @@
-package com.ninja.game.Scene;
+package com.ninja.game;
 
 import com.badlogic.gdx.*;
 import com.ninja.game.Scene.GameScreen;

@@ -1,4 +1,4 @@
-package com.ninja.game.Sprite;
+package com.ninja.game.Interfaces;
 
 /**
  * Created by ather on 19/11/2559.

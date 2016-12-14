@@ -1,9 +1,11 @@
 package com.ninja.game.Sprite;
 
+import com.ninja.game.Interfaces.ICharater;
+
 /**
  * Created by ather on 19/11/2559.
  */
-public class Character implements ICharater{
+public class Character implements ICharater {
     protected nType type = nType.NORMAL;
     protected int element=0;
     protected boolean enermy=false;

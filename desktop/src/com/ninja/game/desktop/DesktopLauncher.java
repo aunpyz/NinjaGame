@@ -2,7 +2,7 @@ package com.ninja.game.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import com.ninja.game.Scene.GameMain;
+import com.ninja.game.GameMain;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {

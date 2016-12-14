@@ -55,7 +55,7 @@ public class GameScreen extends ScreenAdapter {
 //        camera.update();
 
         //change stage test
-        if(Gdx.input.isKeyJustPressed(Input.Keys.SPACE ))
+        if(Gdx.input.isKeyJustPressed(Input.Keys.ENTER ))
         {
             stageController.setElement();
             sceneLoader.loadScene(stageController.getStringElement(), viewport);
