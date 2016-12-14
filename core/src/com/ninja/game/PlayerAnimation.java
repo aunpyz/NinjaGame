@@ -7,8 +7,7 @@ import com.badlogic.gdx.graphics.g2d.TextureAtlas;
 /**
  * Created by Aunpyz on 12/14/2016.
  */
-public class PlayerAnimation {
-    SpriteBatch batch;
+public class PlayerAnimation extends {
     private TextureAtlas textureAtlas;
     private float elapsedTime = 0f;
 
