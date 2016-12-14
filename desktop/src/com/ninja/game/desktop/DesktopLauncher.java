@@ -16,6 +16,7 @@ public class DesktopLauncher {
 //		settings.filterMag = Texture.TextureFilter.MipMapLinearLinear;
 //		settings.filterMin = Texture.TextureFilter.MipMapLinearLinear;
 //		TexturePacker.process(settings, "used sprite animation", "packed", "animation");
+//        TexturePacker.process(settings, "scene", "packed", "scene");
 
 		LwjglApplicationConfiguration config = new LwjglApplicationConfiguration();
 		config.width = 1024;

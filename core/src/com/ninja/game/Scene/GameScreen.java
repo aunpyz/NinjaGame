@@ -9,6 +9,7 @@ import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.g2d.TextureAtlas;
+import com.badlogic.gdx.graphics.g2d.TextureRegion;
 import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
@@ -29,6 +30,7 @@ public class GameScreen extends ScreenAdapter {
     private StageController stageController;
     private Skin resource;
     private PlayerAnimation player;
+    private Scene scene;
 
     private final float WORLD_WIDTH = 12.8f;
     private final float WORLD_HEIGHT = 7.5f;
@@ -38,11 +40,16 @@ public class GameScreen extends ScreenAdapter {
         batch = new SpriteBatch();
         stageController = new StageController();
         assetManager = new AssetManager();
+        assetManager.load("packed/scene.atlas",TextureAtlas.class);
+        assetManager.finishLoading();
         assetManager.load("packed/animation.atlas", TextureAtlas.class);
         resource = new Skin();
         //wait until finish loading
         assetManager.finishLoading();
+        resource.addRegions(assetManager.get("packed/scene.atlas", TextureAtlas.class));
+
         resource.addRegions(assetManager.get("packed/animation.atlas", TextureAtlas.class));
+        scene = new Scene(resource);
         player = new PlayerAnimation(resource);
 
         //camera and viewport initialize
@@ -50,9 +57,6 @@ public class GameScreen extends ScreenAdapter {
         camera.position.set(WORLD_WIDTH/2, WORLD_HEIGHT/2, 0);
         camera.update();
         viewport = new FitViewport(WORLD_WIDTH, WORLD_HEIGHT,camera);
-
-        sceneLoader = new SceneLoader();
-        sceneLoader.loadScene(stageController.getStringElement(), viewport);
     }
 
     @Override
@@ -62,7 +66,7 @@ public class GameScreen extends ScreenAdapter {
         Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 
 //        sceneLoader.getEngine().update(delta);
-//        camera.position.x += 10;
+//        camera.position.set(player.getPosition().x, player.getPosition().y, 0);
 //        camera.update();
 
         //change stage test
@@ -71,6 +75,9 @@ public class GameScreen extends ScreenAdapter {
             stageController.setElement();
             sceneLoader.loadScene(stageController.getStringElement(), viewport);
         }
+        scene.update(delta);
+        scene.setPosition(player.getPosition());
+        scene.render(batch);
         player.update(delta);
         player.render(batch);
         batch.end();

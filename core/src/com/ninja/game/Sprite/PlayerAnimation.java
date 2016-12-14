@@ -38,6 +38,7 @@ public class PlayerAnimation extends Sprite implements State{
     private final float distance = 3f;
     private final float gravity = -0.5f;
     private final float scale = 0.5f;
+    private final float groundLV = 40;
 
     private double hp;
     private String name;
@@ -204,10 +205,14 @@ public class PlayerAnimation extends Sprite implements State{
         if(hp > 0)
         {
             position.x += velocity.x;
+            if(position.x < -100)
+                position.x = -100;
+            else if(position.x > 850)
+                position.x = 850;
             position.y += velocity.y;
-            if(position.y <= 1)
+            if(position.y <= groundLV)
             {
-                position.y = 1;
+                position.y = groundLV;
                 isGround = true;
             }
             velocity.y += gravity;
@@ -320,7 +325,7 @@ public class PlayerAnimation extends Sprite implements State{
     public STATE getState() {
         if(isATK)
             return STATE.ATTACK;
-        if(velocity.x != 0 && position.y <= 1)
+        if(velocity.x != 0 && position.y <= groundLV)
             return STATE.CYCLE;
 //        else if((previousState == STATE.WALK && position.y <= 1) || previousState == STATE.CYCLE && velocity.x != 0)
 //            return STATE.CYCLE;
@@ -328,9 +333,9 @@ public class PlayerAnimation extends Sprite implements State{
 //            return STATE.STOP;
         else if(velocity.y > 0)
             return  STATE.JUMP;
-        else if((velocity.y <= 0 && previousState == STATE.JUMP) || position.y > 1)
+        else if((velocity.y <= 0 && previousState == STATE.JUMP) || position.y > groundLV)
             return STATE.FALLAIR;
-        else if(position.y <= 1 && previousState == STATE.FALLAIR)
+        else if(position.y <= groundLV+10 && previousState == STATE.FALLAIR)
             return STATE.FALLGROUND;
         else if(hp <= 0)
             return STATE.DIE;
@@ -402,5 +407,10 @@ public class PlayerAnimation extends Sprite implements State{
     @Override
     public DIR getDir() {
         return direction;
+    }
+
+    public Vector2 getPosition()
+    {
+        return position;
     }
 }
