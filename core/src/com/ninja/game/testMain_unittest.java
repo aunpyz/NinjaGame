@@ -1,7 +1,5 @@
 package com.ninja.game;
 
-import com.ninja.game.Item.EItem;
-import com.ninja.game.Item.Item;
 import com.ninja.game.Item.ItemList.Arm_blackshild;
 import com.ninja.game.Item.Wearable;
 import com.ninja.game.Sprite.Character;
@@ -12,10 +10,6 @@ import com.ninja.game.State.EElements;
  */
 public class testMain_unittest {
     public static void main(String[] args) {
-        Item item;
-        item = new Item("RRR", EItem.DAMAGE);
-        Item item2 = new Item("ddd", EItem.HEAL);
-
         Wearable armer = new Arm_blackshild();
         System.out.println("armer getDefCal "+armer.getDefCal());
 

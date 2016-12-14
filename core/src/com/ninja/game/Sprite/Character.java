@@ -41,8 +41,8 @@ public class Character implements ICharater {
     protected double intel = 0;
 
     //Position
-    protected double x;
-    protected double y;
+    protected double x = 0;
+    protected double y = 0;
 
 
     /*------------- Coder ----------------*/
@@ -80,9 +80,16 @@ public class Character implements ICharater {
             sumItemDef += itemDef.getDefCal();
         }
     }
+    private void itemCalculateAtk(){
+        sumItemDef = 0;
+        for (Wearable itemAtk : wearableList){
+            sumItemDef += itemAtk.getDefCal();
+        }
+    }
 
     public double getResultDef(){
         // Calculate Every Called
+        this.itemCalculateAtk();
         this.itemCalculateDef();
         System.out.println("Item.Def: "+this.sumItemDef+ " +Char.Def "+this.def+ " = "+(double)(this.sumItemDef+this.def));
         return this.sumItemDef+this.def;
@@ -109,6 +116,7 @@ public class Character implements ICharater {
         return (((this.atk+dmg)*multi)/defChk)*Math.abs(Math.random())*10;
     }
 
+
     private void healthUpdate(){
         this.percenHP2RawHP();
         this.Health2Percent();
@@ -118,7 +126,6 @@ public class Character implements ICharater {
     @Override
     public void attack(Character character, double dmg) {
         healthUpdate();
-
         ElementSystem dmgMultiply = new ElementSystem(this.getElement(), character.getElement());
         double multi = dmgMultiply.getDamge();
         System.out.println(character.getPercenHP() + " perc2dmg: "+def2PercentDamage(dmg,multi ));
@@ -228,6 +235,11 @@ public class Character implements ICharater {
         return y;
     }
 
+    public void setPos(double x, double y){
+        this.setX(x);
+        this.setY(y);
+    }
+
     public void setY(double y) {
         this.y = y;
     }
@@ -242,5 +254,21 @@ public class Character implements ICharater {
 
     public void setPercenHP(double percenHP) {
         this.percenHP = percenHP;
+    }
+
+    public boolean isEnermy() {
+        return enermy;
+    }
+
+    public void setEnermy(boolean enermy) {
+        this.enermy = enermy;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
     }
 }
