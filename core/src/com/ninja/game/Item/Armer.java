@@ -11,7 +11,7 @@ public class Armer extends Wearable {
         super(atk, def, intel);
     }
 
-    public Armer(String name, EItem prop, int atk, int def, int intel) {
-        super(name, prop, atk, def, intel);
+    public Armer(String name, EItem prop, String url, int atk, int def, int intel) {
+        super(name, prop, url, atk, def, intel);
     }
 }
