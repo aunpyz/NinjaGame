@@ -14,7 +14,10 @@ import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 import com.ninja.game.Scene.StageController;
+import com.ninja.game.Sprite.FireE;
 import com.ninja.game.Sprite.PlayerAnimation;
+import com.ninja.game.Sprite.SEnemy;
+import com.ninja.game.Sprite.WoodE;
 import com.uwsoft.editor.renderer.SceneLoader;
 
 /**
@@ -34,7 +37,7 @@ public class GameScreen extends ScreenAdapter {
     private final float WORLD_WIDTH = 12.8f;
     private final float WORLD_HEIGHT = 7.5f;
 
-    WaterE water;
+    SEnemy monst;
 
     @Override
     public void show () {
@@ -53,7 +56,7 @@ public class GameScreen extends ScreenAdapter {
         scene = new Scene(resource);
         player = new PlayerAnimation(resource);
 
-        water = new WaterE(resource);
+        monst = new WoodE(resource);
 
         //camera and viewport initialize
         camera = new OrthographicCamera(Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
@@ -75,10 +78,10 @@ public class GameScreen extends ScreenAdapter {
         scene.update(delta);
         scene.setPosition(player.getPosition());
         scene.render(batch);
+        monst.update(delta);
+        monst.render(batch);
         player.update(delta);
         player.render(batch);
-        water.update(delta);
-        water.render(batch);
         batch.end();
     }
 }
