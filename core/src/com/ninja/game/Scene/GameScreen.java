@@ -34,6 +34,8 @@ public class GameScreen extends ScreenAdapter {
     private final float WORLD_WIDTH = 12.8f;
     private final float WORLD_HEIGHT = 7.5f;
 
+    WaterE water;
+
     @Override
     public void show () {
         batch = new SpriteBatch();
@@ -50,6 +52,8 @@ public class GameScreen extends ScreenAdapter {
         resource.addRegions(assetManager.get("packed/animation.atlas", TextureAtlas.class));
         scene = new Scene(resource);
         player = new PlayerAnimation(resource);
+
+        water = new WaterE(resource);
 
         //camera and viewport initialize
         camera = new OrthographicCamera(Gdx.graphics.getWidth(), Gdx.graphics.getHeight());
@@ -73,6 +77,8 @@ public class GameScreen extends ScreenAdapter {
         scene.render(batch);
         player.update(delta);
         player.render(batch);
+        water.update(delta);
+        water.render(batch);
         batch.end();
     }
 }
